@@ -4,3 +4,4 @@
 /test_ssm_service/target/
 /test_ssm_utils/target/
 /test_ssm_web/target/
+/test_ssm_web/src/main/resources/db.properties
